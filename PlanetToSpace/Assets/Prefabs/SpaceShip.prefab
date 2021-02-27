@@ -794,7 +794,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotateThrust: 400
-  mainThrust: 1500
+  mainThrust: 2000
   mainEngine: {fileID: 8300000, guid: 984dac7351b6f8f40810b26b60983028, type: 3}
   thrusterParticle: {fileID: 8439616171554120251}
 --- !u!82 &560918532
